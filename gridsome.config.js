@@ -6,6 +6,7 @@
 
 module.exports = {
   siteName: 'VBlog',
+  pathPrefix: '/my-VBlog',
   plugins: [{
     use: '@gridsome/source-strapi',
     options: {

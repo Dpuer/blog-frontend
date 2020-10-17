@@ -1,6 +1,6 @@
 export default {
   "trailingSlash": true,
-  "pathPrefix": "",
+  "pathPrefix": "/my-VBlog",
   "titleTemplate": "%s - VBlog",
   "siteUrl": "",
   "version": "0.7.21",
